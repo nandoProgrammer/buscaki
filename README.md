@@ -1,6 +1,6 @@
 # Buscador de estabelecimentos criados para o bootcamp da DIO
 
-## Veja funcionando no link: https://app.netlify.com/sites/busca-aki/settings/general
+## Veja funcionando no link: https://app.netlify.com/sites/busca-aki
 
 ### Para instalar na sua máquina após fazer o git clone:
 
